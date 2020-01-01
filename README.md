@@ -14,5 +14,5 @@ Mini Data Science Projects
 * [Ultimate Take Home Challenge](https://github.com/jeffreyzhangma/Mini-Projects/blob/master/Take%20Home%20Challenge%20Data%20Analysis%20Interview.ipynb)
 * [API Data Wrangling](https://github.com/jeffreyzhangma/Mini-Projects/blob/master/api_data_wrangling_mini_project.ipynb)
 * [Sliderule Dsi Inferential Statistics Exercise 1](https://github.com/jeffreyzhangma/Mini-Projects/blob/master/sliderule_dsi_inferential_statistics_exercise_1.ipynb)
-* [Sliderule Dsi Inferential Statistics Exercise 2](https://github.com/jeffreyzhangma/Mini-Projects/blob/master/sliderule_dsi_inferential_statistics_exercise_2.ipynb
+* [Sliderule Dsi Inferential Statistics Exercise 2](https://github.com/jeffreyzhangma/Mini-Projects/blob/master/sliderule_dsi_inferential_statistics_exercise_2.ipynb)
 * [Sliderule Dsi Inferential Statistics Exercise 3](https://github.com/jeffreyzhangma/Mini-Projects/blob/master/sliderule_dsi_inferential_statistics_exercise_3%20(1).ipynb)
